@@ -1,2 +1,2 @@
-branch2 feature welcome
+branch2 feature welcome. the file is updated.
 
